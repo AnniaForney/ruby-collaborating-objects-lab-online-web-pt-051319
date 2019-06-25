@@ -6,5 +6,8 @@ class Song
   end
 
   def artist
+  end
+
+  def self.new_by_filename
   end 
 end
